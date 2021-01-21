@@ -34,7 +34,5 @@ REST API on Go language with fiber web framework
     <img src="https://img.shields.io/discord/704680098577514527?style=flat&label=%F0%9F%92%AC%20discord&color=00ACD7">
   </a>
 </p>
-
-## ⚠️ License
-
+                                                                                                                     
 Copyright (c) 2019-present [`Fiber`](https://github.com/gofiber/fiber/graphs/contributors). 
