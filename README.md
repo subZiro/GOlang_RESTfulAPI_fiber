@@ -35,27 +35,6 @@ REST API on Go language with fiber web framework
   </a>
 </p>
 
-
-
-## ⚡️ Быстрый старт
-
-```go
-package main
-
-import "github.com/gofiber/fiber/v2"
-
-func main() {
-    app := fiber.New()
-
-    app.Get("/", func(c *fiber.Ctx) error {
-        return c.SendString("Hello, World 👋!")
-    })
-
-    app.Listen(":3000")
-}
-```
-
-
 ## ⚠️ License
 
 Copyright (c) 2019-present [`Fiber`](https://github.com/gofiber/fiber/graphs/contributors). 
