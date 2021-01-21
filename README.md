@@ -3,11 +3,7 @@
 REST API on GO language with fiber web framework and SQlite3 data base
 
 
-
-
-
-
-
+***
 
 <p align="center">
   <a href="https://gofiber.io">
