@@ -1,5 +1,7 @@
 # GOlang_RESTfulAPI_fiber
-REST API on Go language with fiber web framework
+
+REST API on GO language with fiber web framework and SQlite3 data base
+
 
 
 
