@@ -42,5 +42,6 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
 	defer database.DB.Close()
 }
